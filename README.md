@@ -1,3 +1,8 @@
+# What
+Template for python app connecting to spark cluster running in Docker containers.
+
+## Background
+Made to use using https://github.com/big-data-europe/docker-spark
 
 ## Launch
 To build and run the image. Make sure to par special attention to the network name, as it is set automatically by bde2020/docker-spark.
